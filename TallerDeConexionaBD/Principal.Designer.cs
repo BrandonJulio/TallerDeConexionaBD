@@ -34,7 +34,7 @@
             // 
             // BtnConectar
             // 
-            this.BtnConectar.Location = new System.Drawing.Point(202, 204);
+            this.BtnConectar.Location = new System.Drawing.Point(201, 197);
             this.BtnConectar.Name = "BtnConectar";
             this.BtnConectar.Size = new System.Drawing.Size(101, 27);
             this.BtnConectar.TabIndex = 0;
